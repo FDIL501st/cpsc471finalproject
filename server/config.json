@@ -1,0 +1,7 @@
+{
+    "host_config": "localhost",
+    "user_config": "root",
+    "password_config": "password",
+    "database_config": "invoicify",
+    "connectTimeout_config": 60000
+}
