@@ -43,3 +43,7 @@ cd client
 npm run build
 npm run start
 ```
+
+## Invoicify Usage
+The first page you go to will be blank. We did not create a home page for path "/".
+The first actual page is "/login".
