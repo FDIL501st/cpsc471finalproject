@@ -1,5 +1,8 @@
 ### Note
 This is a re-upload of source code, without the original git history as the original repo is owned by another group member who set the repo to private.
+The other 2 people who worked on this are:
+- [Sandip](https://github.com/sandipm02)
+- [Sam](https://github.com/SamWOW99)
 
 # Invoicfy
 
